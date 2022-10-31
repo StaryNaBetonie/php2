@@ -1,0 +1,2 @@
+login: admin
+haslo: hasloadmina
